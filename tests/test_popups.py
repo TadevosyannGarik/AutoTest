@@ -57,3 +57,4 @@ class TestPopups:
             print("Prompt text:", prompt_text)
 
 print("Hello World")
+print("Hello World")
