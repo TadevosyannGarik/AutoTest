@@ -55,3 +55,7 @@ class TestPopups:
         with allure.step("Click Prompt popup and input text"):
             prompt_text = page.click_prompt("Hello!")  # Вводим текст в prompt и принимаем
             print("Prompt text:", prompt_text)
+
+print("Hello World")
+print("Hello World")
+# Изменение из первой ветки
